@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Thanh Toàn Thịnh</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Thanh Toan Thinh</h1>
 <h3 align="center">An AI engineer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ToanThinh1208&label=Profile%20views&color=0e75b6&style=flat" alt="ToanThinh1208" /> </p>
